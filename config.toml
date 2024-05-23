@@ -1,5 +1,6 @@
 # Site settings
-baseurl = "https://nankesdream.gitee.io"
+baseurl = "https://nankesdream.github.io/oss"
+publishDir = "docs"
 languageCode = "en-us"
 title = "Hugo Artists Theme"
 theme = "hugo-artists-theme"
