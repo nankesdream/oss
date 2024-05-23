@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hugo Artists Theme</title>
-    <link>https://nankesdream.gitee.io/tags/</link>
+    <link>https://nankesdream.github.io/oss/tags/</link>
     <description>Recent content in Tags on Hugo Artists Theme</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://nankesdream.gitee.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nankesdream.github.io/oss/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
